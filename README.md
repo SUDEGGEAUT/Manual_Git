@@ -29,7 +29,7 @@ C:\python 2\fala_br>git push --force origin main
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#PARA CRIAR TAG
+# PARA CRIAR TAG
 
 caso não esteja na pasta: cd (caminho da nova pasta)
 
@@ -57,7 +57,7 @@ git push --force origin main
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Exclui ou add o arquivo na pasta onde está o programa do git
+# EXCLUI OU ADD O ARQUIVO QUE ESTA NA PASTA ONDE ESTÁ O PROGRAMA DO GIT
 
 cd/
 cd (caminho da pasta)
@@ -108,6 +108,15 @@ DIR
 ren (nome atual(espaço)nome atualizado)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# BAIXAR ALGUM ARQUIVO ATUALIZADO DO GITHUB
+
+cd/
+
+cd (caminho do arquivo onde será baixado a atualização)
+
+git clone (LINK DO CODIGO DO GIT)
+
 
 
 
