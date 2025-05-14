@@ -99,7 +99,7 @@
 6. Atualize a tag (se necessário):
    ```cmd
    git tag -a 1.0.1 -m "v1.0.1"
-   git push origin 1.0.1
+   git push --tag
    ```
 
 ---
