@@ -2,8 +2,13 @@
 # **Manual de Utilização do Git pelo Prompt de Comando**
 
 ## **1. Enviar Código para o GitHub**
+ ##Se o código é novo:
 
-### **Passo a Passo:**
+ ##Se o código é antigo e foi atualizado:
+# Siga essa ordem de comando: 
+''' git status (confirmar o que já foi alterado) git add . | git commit -m "atualizacao" | git push origin main | git tag -a 1.0.x -m "v1.0.x" | git push --tag'''
+
+### **Passo a Passo geral:**
 1. Abra o Prompt de Comando.
 2. Navegue até o diretório onde deseja trabalhar:
    ```cmd
